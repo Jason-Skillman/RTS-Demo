@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jason\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jason\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_RTS-Demo.-642538642.00" t="ExcludeRecursive" />
+    <e p="D:\Workspaces\Git\RTS-Demo" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="RTS A-Star" t="Include">
+            <e p="PathfinderEditor.cs" t="Include" />
+          </e>
+          <e p="RTS Core" t="Include">
+            <e p="RTSGameObject" t="Include">
+              <e p="BuildingEditor.cs" t="Include" />
+              <e p="Unit" t="Include">
+                <e p="WorkerEditor.cs" t="Include" />
+              </e>
+              <e p="UnitEditor.cs" t="Include" />
+            </e>
+            <e p="RTSGameObjectEditor.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Bullet.cs" t="Include" />
+          <e p="Cursor.cs" t="Include" />
+          <e p="FPS.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IMiniMapController.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="CursorManager.cs" t="Include" />
+            <e p="DragManager.cs" t="Include" />
+            <e p="Event Manager" t="Include">
+              <e p="EventArgs" t="Include">
+                <e p="KeyBoardEventArgs.cs" t="Include" />
+                <e p="MouseClickEventArgs.cs" t="Include" />
+                <e p="MouseWheelEventArgs.cs" t="Include" />
+                <e p="ScreenEdgeEventArgs.cs" t="Include" />
+              </e>
+              <e p="EventManager.cs" t="Include" />
+              <e p="EventManager.Keyboard.cs" t="Include" />
+              <e p="EventManager.Mouse.cs" t="Include" />
+              <e p="EventManager.MouseWheel.cs" t="Include" />
+              <e p="EventManager.ScreenEdge.cs" t="Include" />
+            </e>
+            <e p="GameManager.cs" t="Include" />
+            <e p="GUIManager.cs" t="Include" />
+            <e p="HoverManager.cs" t="Include" />
+            <e p="HUDManager.cs" t="Include" />
+            <e p="SelectedManager.cs" t="Include" />
+            <e p="TeamManager.cs" t="Include" />
+          </e>
+          <e p="Menu Action Items" t="Include">
+            <e p="Items" t="Include">
+              <e p="MenuAction_AirField.cs" t="Include" />
+              <e p="MenuAction_Barracks.cs" t="Include" />
+              <e p="MenuAction_ConstructionYard.cs" t="Include" />
+              <e p="MenuAction_PowerPlant.cs" t="Include" />
+              <e p="MenuAction_Radar.cs" t="Include" />
+              <e p="MenuAction_Refinery.cs" t="Include" />
+              <e p="MenuAction_TechCenter.cs" t="Include" />
+              <e p="MenuAction_WarFactory.cs" t="Include" />
+            </e>
+            <e p="MenuActionItem.cs" t="Include" />
+          </e>
+          <e p="Overlays.cs" t="Include" />
+          <e p="PathfinderTest.cs" t="Include" />
+          <e p="RTS A-Star" t="Include">
+            <e p="Grid.cs" t="Include" />
+            <e p="Heap.cs" t="Include" />
+            <e p="Node.cs" t="Include" />
+            <e p="Path.cs" t="Include" />
+            <e p="Pathfinder Manager" t="Include">
+              <e p="PathfinderManager.cs" t="Include" />
+              <e p="PathfinderManager.Seeker.cs" t="Include" />
+            </e>
+            <e p="Pathfinder.cs" t="Include" />
+            <e p="Pathfinding (Old)" t="Include">
+              <e p="MyAIPath.cs" t="Include" />
+              <e p="Old" t="Include">
+                <e p="Line.cs" t="Include" />
+                <e p="RTSGameObjectTest.cs" t="Include" />
+              </e>
+              <e p="Path_AdvancedMovement.cs" t="Include" />
+              <e p="Path_Movement.cs" t="Include" />
+              <e p="Path_NoMovement.cs" t="Include" />
+              <e p="RTSPathfinder.cs" t="Include" />
+              <e p="TransformObject" t="Include">
+                <e p="AstarAI_Movement.cs" t="Include" />
+                <e p="AstarAI_NoMovement.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="RTS Core" t="Include">
+            <e p="RTSGameObject.cs" t="Include" />
+            <e p="RTSGameObjects" t="Include">
+              <e p="Building.cs" t="Include" />
+              <e p="Buildings" t="Include">
+                <e p="Airfield.cs" t="Include" />
+                <e p="Barracks.cs" t="Include" />
+                <e p="ConstructionYard.cs" t="Include" />
+                <e p="PowerPlant.cs" t="Include" />
+                <e p="Radar.cs" t="Include" />
+                <e p="Refinery.cs" t="Include" />
+                <e p="Silo.cs" t="Include" />
+                <e p="TechCenter.cs" t="Include" />
+                <e p="WarFactory.cs" t="Include" />
+              </e>
+              <e p="Unit.cs" t="Include" />
+              <e p="Units" t="Include">
+                <e p="Aircraft.cs" t="Include" />
+                <e p="Infantry" t="Include">
+                  <e p="Worker.cs" t="Include" />
+                </e>
+                <e p="Infantry.cs" t="Include" />
+                <e p="Vehicle.cs" t="Include" />
+                <e p="Vehicles" t="Include">
+                  <e p="Tank.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Teams" t="Include">
+            <e p="TeamController.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="RTS-Demo.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
